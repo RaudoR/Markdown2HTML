@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 '''
-Take 2 strings as arguments.
-The first is the name of the Markdown file.
-The second is the output file name.
+Write a script markdown2html.py that takes an argument 2 strings
 '''
 
 import sys
